@@ -1,0 +1,29 @@
+{
+  "company": {
+    "name": "Apex Roofing",
+    "phone_number": "(555) 839-2041",
+    "phone_tel": "+15558392041",
+    "city_state": "Austin, TX"
+  },
+  "brand": {
+    "logo_url": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=120&q=80",
+    "tagline": "Licensed, insured, and family-owned. With a 4.9-star rating, 500+ completed roofs, and a lifetime workmanship warranty — we make protecting your home effortless."
+  },
+  "stats": {
+    "years": "15+",
+    "projects": "500+",
+    "rating": "4.9",
+    "review_count": "2,400+",
+    "emergency_hours": "24/7"
+  },
+  "services": ["Roof Replacement", "Leak Repair", "Storm Damage"],
+  "certifications": ["BBB A+", "GAF Master Elite", "Owens Corning Premium"],
+  "form": {
+    "endpoint": ""
+  },
+  "reviews": [
+    { "name": "Michael R.", "location": "Round Rock, TX", "initials": "MR", "color": "#2563eb", "text": "Shingles were replaced in two days. The crew cleaned up perfectly and the new roof looks incredible. Worth every penny." },
+    { "name": "Sarah K.", "location": "Cedar Park, TX", "initials": "SK", "color": "#1d4ed8", "text": "Found a leak no one else could fix in under an hour. Absolute lifesavers during the storm — they answered at 2 AM." },
+    { "name": "James T.", "location": "Pflugerville, TX", "initials": "JT", "color": "#0f172a", "text": "The insurance process was so smooth. They handled everything with our adjuster and we paid zero out of pocket. 10/10." }
+  ]
+}
